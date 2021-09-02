@@ -13,13 +13,13 @@ Box pointer representation and further topics not included
 
 
 ## IoT
-Introduction to IoT \n
-IoT Definition and Characteristics \n
-Things in IoT \n
-loT Complete Architectural Stack \n
-loT enabling Technologies \n
-loT Challenges \n
-Sensors and Hardware for loT \n
+Introduction to IoT <br/>
+IoT Definition and Characteristics <br/>
+Things in IoT <br/>
+loT Complete Architectural Stack <br/>
+loT enabling Technologies <br/>
+loT Challenges <br/>
+Sensors and Hardware for loT <br/>
 
 
 ## NCP
