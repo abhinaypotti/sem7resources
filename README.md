@@ -4,7 +4,7 @@
 IoT - https://sites.google.com/view/aseiot/2020-21-oddsem
 
 
-
+<!-- 
 # Midterm Portions
 ## ML and DM
 chapters 1,2,3 and 6 (except 6.3.3)
@@ -29,7 +29,7 @@ Sensors and Hardware for loT <br/>
 ## NCP
 Internet, HTML, CSS, JavaScript(till loops)
 
-
+ -->
 
 
 
