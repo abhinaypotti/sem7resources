@@ -1,8 +1,7 @@
 # sem7resources
 
 # Resources
-IoT
-https://sites.google.com/view/aseiot/2020-21-oddsem
+IoT - https://sites.google.com/view/aseiot/2020-21-oddsem
 
 
 
