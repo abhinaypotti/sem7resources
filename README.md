@@ -2,6 +2,7 @@
 
 # Resources
 IoT - https://sites.google.com/view/aseiot/2020-21-oddsem
+<br />
 NCP - Each student will get 2 questions. One from HTML,CSS and Servlet and second question from XML(XSD ,DTD, XSLT elements) 
 
 <!-- 
